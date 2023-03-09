@@ -1,4 +1,7 @@
-# NeemRaha-How-Can-a-Wellness-Technology-Company-Play-It-Smart-
+# NeemRaha
+#How-Can-a-Wellness-Technology-Company-Play-It-Smart-
+
+
 Business Task:
 Examine FitBit fitness tracker data to see how users interact with the FitBit app and identify trends for Bellabeat’s marketing plan.
 
